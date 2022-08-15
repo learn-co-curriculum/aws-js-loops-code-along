@@ -1,4 +1,4 @@
-# Looping Lab
+# Looping
 
 ## Learning Goals
 
@@ -368,7 +368,7 @@ counts down to zero using `console.log()`. Note that this means that running
 
 Remember the workflow:
 
-1. Run the tests using `learn test`.
+1. Run the tests using `npm test`.
 2. Read the errors; vocalize what they're asking you to do.
 3. Write code; repeat steps 1 and 2 often until a test passes.
 4. Repeat as needed for the remaining tests.
