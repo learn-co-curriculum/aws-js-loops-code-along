@@ -50,7 +50,8 @@ This is a code-along, so follow along with the instructions in each section.
 There are tests to make sure you're coding your solutions correctly. If you
 haven't already, fork and clone this lab into your local environment. Navigate
 into its directory in the terminal, then run `code .` to open the files in
-Visual Studio Code.
+Visual Studio Code. Install all the dependencies with `npm install` to ensure 
+you can test your work as you go with `npm test`.
 
 ## The `for` loop
 
